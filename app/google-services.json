@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936410165690",
+    "firebase_url": "https://mapdiary-1aa5f.firebaseio.com",
+    "project_id": "mapdiary-1aa5f",
+    "storage_bucket": "mapdiary-1aa5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936410165690:android:fddb5f9eba9196ee97ed83",
+        "android_client_info": {
+          "package_name": "com.hancompany.mapdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936410165690-i6m4kicioa54nc3kfudhs32vk30un07l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hancompany.mapdiary",
+            "certificate_hash": "96b1a5dc166bc40a1dc3aac753f37137c4770d31"
+          }
+        },
+        {
+          "client_id": "936410165690-qrkuviqpvgh5svpo93hfpkn3odtu5iai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5lEa9VTkK96Q2MtZT09y3FGFXCoi7lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936410165690-qrkuviqpvgh5svpo93hfpkn3odtu5iai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
